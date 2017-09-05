@@ -2,7 +2,7 @@
   "name": "vue-music-player",
   "version": "2.0.0",
   "description": "A Vue.js music player",
-  "author": "Zhaohui <zhaohui@microzz.com>",
+  "author": "huxibao <972109653@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
